@@ -1,0 +1,11 @@
+com\maanya\onlineexam\ExamController.class
+com\maanya\onlineexam\ScoreRepository.class
+com\maanya\onlineexam\Score.class
+com\maanya\onlineexam\QuestionDAO.class
+com\maanya\onlineexam\Question.class
+com\maanya\onlineexam\UserDAO.class
+com\maanya\onlineexam\TerminalController.class
+com\maanya\onlineexam\OnlineExamApplication.class
+com\maanya\onlineexam\UserRepository.class
+com\maanya\onlineexam\QuestionRepository.class
+com\maanya\onlineexam\User.class
